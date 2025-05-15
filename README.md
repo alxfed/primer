@@ -1,6 +1,10 @@
 # The Primer theme
 
-[Pages site](https://pages.github.com/), [GitHub pages themes](https://github.com/pages-themes)
+[Pages site](https://pages.github.com/), 
+
+[GitHub pages themes](https://github.com/pages-themes)
+
+[Primer style](https://primer.style/)
 
 *Primer is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/primer), or even [use it today](#usage).*
 
